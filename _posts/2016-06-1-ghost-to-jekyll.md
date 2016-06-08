@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Hello World!
+title: An article!
 ---
-
-Hello World!
+测试分页功能。

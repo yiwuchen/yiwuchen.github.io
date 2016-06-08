@@ -4,6 +4,9 @@ email: cyw.will@gmail.com
 description: Software Engineer
 google_verification: null
 
+# Paginate
+paginate: 1
+paginate_path: "/page:num/"
 
 # File management
 include: [".htaccess"]
