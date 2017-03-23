@@ -1,2 +1,1 @@
-# yiwuchen.github.io
-Hi, this is my personal website.
+This is the repository for my personal website (yiwuchen.github.io).
