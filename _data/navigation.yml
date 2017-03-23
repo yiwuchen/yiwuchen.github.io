@@ -1,14 +1,8 @@
-- title: home
-  url: /
-
-- title: about
+- title: About
   url: /me
 
-- title: contact
-  url: mailto:cyw.will@gmail.com
-
-- title: github
+- title: Github
   url: https://github.com/yiwuchen
 
-- title: linkedin
-  url: https://www.linkedin.com/in/will-chen-64b57a40?trk=hp-identity-name
+- title: Photos
+  url: /photos

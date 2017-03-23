@@ -2,7 +2,10 @@
 layout: about
 ---
 
-Hello, my name is Yiwu Chen
+Hello, my name is Yiwu Chen. I like coding and taking photos.
 
 # What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/yiwuchen).
+I make cool stuff. All the code I write is on my [Github](https://github.com/yiwuchen).
+
+[Linkedin](https://www.linkedin.com/in/will-chen-64b57a40?trk=hp-identity-name)
+[Contact me](mailto:cyw.will@gmail.com)

@@ -1,9 +1,12 @@
 # My variables
 name: Yiwu Chen
 email: cyw.will@gmail.com
-description: Developer
+description: Software Engineer
 google_verification: null
 
+# Paginate
+paginate: 1
+paginate_path: "/page:num/"
 
 # File management
 include: [".htaccess"]
@@ -22,3 +25,4 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+
