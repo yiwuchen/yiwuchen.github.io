@@ -1,8 +1,8 @@
-- title: about
+- title: About
   url: /me
 
-- title: projects
-  url: /projects
+- title: Github
+  url: https://github.com/yiwuchen
 
-- title: photos
+- title: Photos
   url: /photos
